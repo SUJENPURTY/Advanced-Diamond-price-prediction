@@ -7,11 +7,11 @@ This project predicts the price of diamonds using machine learning. It uses data
 
 Data Cleaning: Fix missing values, remove outliers, and prepare data for modeling.
 
-Exploratory Data Analysis (EDA): Create charts and graphs to understand the data and find important patterns.
+Exploratory Data Analysis (EDA)  : Create charts and graphs to understand the data and find important patterns.
 
-Feature Engineering: Make new useful features to improve prediction accuracy.
+Feature Engineering              : Make new useful features to improve prediction accuracy.
 
-Machine Learning Models: Train different models to find the best one for predicting prices:
+Machine Learning Models          : Train different models to find the best one for predicting prices:
 
 - Linear Regression
 
