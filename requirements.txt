@@ -2,3 +2,6 @@ pandas
 numpy
 seaborn
 flask
+
+
+-e .
